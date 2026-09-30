@@ -1,1 +1,1 @@
-# Intermediate-Certification
+# SQL-Intermediate-Certification
